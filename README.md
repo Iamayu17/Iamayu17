@@ -1,7 +1,7 @@
 ## Hii there 👋
 - 👋 Hi, I’m Ayush kumar
 - 👀 I’m interested in Web developing 👩🏼‍💻 & Graphic designing 🎨
-- 🌱 I’m currently learning Backend 
+- 🌱 I’m currently working in frontend & Backend skills
 - 💞️ I’m looking to collaborate on any IT company where I can use my potential to achieve the goals .
 - 📫 You can reach through Email   - ayushkumarsep1998@gmail.com
 - ⚡ Fun fact I play games.
